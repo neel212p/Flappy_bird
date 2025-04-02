@@ -17,24 +17,6 @@ This project implements an artificial intelligence that learns to play Flappy Bi
 - Graphviz (for network visualization)
 - Matplotlib (for statistics plotting)
 
-## Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/neel212p/Flappy_bird.git
-   cd Flappy_bird
-   ```
-
-2. Install the required packages:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-## Usage
-Run the main script to start the evolution process:
-```bash
-python Flappy_bird.py
-```
-
 ### Configuration
 The NEAT algorithm parameters can be adjusted in the `config-feedforward.txt` file. Key parameters include:
 - Population size
