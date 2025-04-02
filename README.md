@@ -20,8 +20,8 @@ This project implements an artificial intelligence that learns to play Flappy Bi
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/neel212p/flappy-bird-ai.git
-   cd flappy-bird-ai
+   git clone https://github.com/neel212p/flappy_bird.git
+   cd flappy_bird
    ```
 
 2. Install the required packages:
