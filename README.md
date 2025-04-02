@@ -61,14 +61,11 @@ The AI typically learns to play effectively within 10-20 generations, achieving 
 - `visualize.py`: Visualization utilities
 - `imgs/`: Game assets folder
 
-## License
-This project is open-source and available under the MIT License.
+
 
 ## Acknowledgments
 - NEAT-Python library
 - Flappy Bird game concept
 - Pygame community
 
----
 
-You can customize this README further with screenshots, more detailed instructions, or additional sections like "Contributing Guidelines" or "Future Improvements" as needed for your project.
